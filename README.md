@@ -4,7 +4,7 @@
 
 
 ![Build Status](https://github.com/KANGYE12/Cancer-de-mama-Infraestructura/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://raw.githubusercontent.com/KANGYE12/Cancer-de-mama-Infraestructura/main/.github/badges/coverage.svg)
+![Coverage](https://raw.githubusercontent.com/KANGYE12/Cancer-de-mama-Infraestructura/main/.github/badges/jacoco.svg)
 
 A Spring Boot REST API that models a small medical records system. Built as a practice project for the **Software Maintenance and Testing** course at the University of Málaga.
 
